@@ -3,12 +3,18 @@
     "version": "0.0.0",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "animation": "*"
     },
     "files": [
         "README.md",
         "main.blocks",
-        "main.ts"
+        "main.ts",
+        "main.py",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
     ],
     "testFiles": [
         "test.ts"
